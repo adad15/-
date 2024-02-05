@@ -1,5 +1,5 @@
 <!DOCTYPE RCC><RCC version="1.0">
 <qresource prefix="i18n">
-<file alias="weather_zh_CN.qm">E:/QT test/build-weather-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/debug/weather_zh_CN.qm</file>
+<file alias="weather-forecast_zh_CN.qm">E:/QT test/build-weather-forecast-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/debug/weather-forecast_zh_CN.qm</file>
 </qresource>
 </RCC>
