@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>backgroud.png</file>
+        <file>ui.png</file>
+        <file>weaUI.png</file>
+    </qresource>
+</RCC>
